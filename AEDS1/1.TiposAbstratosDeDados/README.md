@@ -14,7 +14,11 @@ Tipos de dados podem ser vistos como métodos para interpretar o conteúdo da me
 
 Tipos estruturados são estruturas de dados pré-definidas na linguagem de programação. Vetores, registros, listas encadeadas, pilhas, filas, árvores, e grafos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal. 
 ____________________
-### Tipos Abstratos de Dados - TAD
+### Tipos Abstratos de Dados - TAD  
+
+<p align="center">
+    <img src="http://scp.s-scptuj.mb.edus.si/~murkos/Teorija%20in%20vaje/ROM/Interaktivni%20ra%E8unalni%9Aki%20te%E8aji/computing/cpp/cpp1/img8.gif" width="250">
+</p>
 
 
 Trata-se de uma metodologia de programação que visa reduzir as informações necessárias para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. A abstração das informações aprimorou a construção de algoritmos, e por consequência aumentou a complexidade dos programas. 
