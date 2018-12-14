@@ -9,8 +9,8 @@ A estrutura de dados, então, nada mais é que a organização de dados e opera�
 
 Tipos de dados podem ser vistos como métodos para interpretar o conteúdo da memória do computador. Caracteriza o conjunto de valores a que uma constante pertence, ou que podem ser assumidos por uma variável ou expressão, ou que podem ser gerados por uma função.
 
-**Tipos simples:** int, float, double, etc   
-**Tipos estruturados:** struct  
+*Tipos simples:* int, float, double, etc   
+*Tipos estruturados:* struct  
 
 Tipos estruturados são estruturas de dados pré-definidas na linguagem de programação. Vetores, registros, listas encadeadas, pilhas, filas, árvores, e grafos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal. 
 ____________________
