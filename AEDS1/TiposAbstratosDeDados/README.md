@@ -1,17 +1,19 @@
 ## Estrutura de Dados
 
-Organização de dados e operações (algoritmos) que podem ser aplicadas sobre esses como forma de apoio a solução de problemas (complexos).
+Estruturas de dados dão suporte à descrição dos elementos funcionais passivos, complementando o algoritmo que
+constitui parte da solução do problema considerado. Ambos, algoritmo e estruturas de dados, compõem o programa a ser executado pelo computador.
 
-### Tipos de Dados
+A estrutura de dados, então, nada mais é que a organização de dados e operações (algoritmos) que podem ser aplicadas sobre esses como forma de apoio a solução de problemas (complexos).
+
+#### Tipos de Dados
 
 Tipos de dados podem ser vistos como métodos para interpretar o conteúdo da memória do computador. Caracteriza o conjunto de valores a que uma constante pertence, ou que podem ser assumidos por uma variável ou expressão, ou que podem ser gerados por uma função.
 
-Tipos simples: int, float, double, etc
-Tipos estruturados: struct
+**Tipos simples:** int, float, double, etc   
+**Tipos estruturados:** struct  
 
-Tipo estruturado são estruturas de dados pré-definidas na linguagem de programação. 
-Vetores, registros, listas encadeadas, pilhas, filas, árvores, gratos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal. 
-
+Tipos estruturados são estruturas de dados pré-definidas na linguagem de programação. Vetores, registros, listas encadeadas, pilhas, filas, árvores, e grafos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal. 
+____________________
 ### Tipos Abstratos de Dados - TAD
 
 Trata-se de uma metodologia de programação que visa reduzir as informações necessárias para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. A abstração das informações aprimorou a construção de algoritmos, e por consequência aumentou a complexidade dos programas. 
@@ -25,8 +27,9 @@ O TAD é implementado usando-se um tipo composto (struct/record) com os valores 
 **Definição de um TAD**
 
 1. Descreve-se o TAD em dois módulos separados.  
-1. Um módulo contém a definição: representação da estrutura de dados e implementação de cada operação suportada. É visto como uma tuple (*v,o*), em que *v* é o conjunto de valores, e *o* é o conjunto de operações aplicadas sobre esses valores.
-2. Um módulo contém a interface de acesso: apresenta operações possíveis.
+   1.1. Um módulo contém a definição: representação da estrutura de dados e implementação de cada operação suportada. É visto como uma tuple (*v,o*), em que *v* é o conjunto de valores, e *o* é o conjunto de operações aplicadas sobre esses valores.  
+   1.2. Um módulo contém a interface de acesso: apresenta operações possíveis.  
+
 2. Os módulos (ou units) são instalados em uma biblioteca e podem ser reutilizados por vários programas. A execução do programa irá exigir que os módulos sejam linkados.
 
 **Implementação**
@@ -52,7 +55,7 @@ A escolha da estrutura de dados empregada tem papel importante, uma escolha mal 
 
 ##### Links consultados:
 
-http://wiki.icmc.usp.br/images/f/fd/AulaTAD.pdf
-http://www.lcad.icmc.usp.br/~paulovic/aulas/ALG-I/SCC0202-aula-02-TADs.pdf
-http://www.inf.puc-rio.br/~coordicc/icc/TAD.pdf
-https://pt.wikipedia.org/wiki/Tipo_abstrato_de_dado
+http://wiki.icmc.usp.br/images/f/fd/AulaTAD.pdf  
+http://www.lcad.icmc.usp.br/~paulovic/aulas/ALG-I/SCC0202-aula-02-TADs.pdf  
+http://www.inf.puc-rio.br/~coordicc/icc/TAD.pdf  
+https://pt.wikipedia.org/wiki/Tipo_abstrato_de_dado  
