@@ -16,6 +16,7 @@ Tipos estruturados são estruturas de dados pré-definidas na linguagem de progr
 ____________________
 ### Tipos Abstratos de Dados - TAD
 
+
 Trata-se de uma metodologia de programação que visa reduzir as informações necessárias para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. A abstração das informações aprimorou a construção de algoritmos, e por consequência aumentou a complexidade dos programas. 
 
 Um tipo abstrato de dados (TAD) pode ser visto como um modelo matemático que encapsula um modelo de dados e um conjunto de procedimentos que atuam com exclusividade sobre os dados encapsulados. Em nível de abstração mais baixo, associado à implementação, esses procedimentos são implementados por subprogramas denominados operações, métodos ou serviços. 
