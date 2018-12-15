@@ -5,7 +5,7 @@
 //As aspas são usadas para definir que a biblioteca é local, e não do sistema
 
 //Definicao do tipo de dados
-struct ponto{
+struct Ponto{
   float valor1;
   float valor2;
 }
@@ -30,8 +30,8 @@ void ponto_acessar(Ponto* ponto, float* valor1, float* valor2){
 }
 //Atribuir a um ponto as coordenadas "x" e "y"
 void ponto_atribuir(Ponto* ponto, float x, float y){
-      ponto->valor1 = valor1;
-      ponto->valor2 = valor2;
+      ponto->valor1 = x;
+      ponto->valor2 = y;
 }
 //Calcular a distância entre dois pontos
 float pontos_distancia(Ponto* ponto1, Ponto* ponto2){
