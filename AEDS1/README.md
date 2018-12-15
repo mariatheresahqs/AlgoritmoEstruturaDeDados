@@ -3,7 +3,7 @@
 Material de estudo para a disciplinas de "Algoritmos e Estruturas de Dados I" - UFV
 
 <p align="center">
-  <img src="https://www.mercuryminds.com/wp-content/uploads/2017/07/1-Ggl_e8v-IzxUdienwrTMZQ.png">
+  <img src="https://www.mercuryminds.com/wp-content/uploads/2017/07/1-Ggl_e8v-IzxUdienwrTMZQ.png" width="450">
 </p>
 
 ## CCF211 Algoritmos e Estrutura de Dados I
