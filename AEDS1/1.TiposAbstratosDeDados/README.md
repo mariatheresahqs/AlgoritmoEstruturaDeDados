@@ -12,7 +12,7 @@ Tipos de dados podem ser vistos como métodos para interpretar o conteúdo da me
 *Tipos simples:* int, float, double, etc   
 *Tipos estruturados:* struct  
 
-Tipos estruturados são estruturas de dados pré-definidas na linguagem de programação. Vetores, registros, listas encadeadas, pilhas, filas, árvores, e grafos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal. 
+Tipos estruturados são estruturas de dados pré-definidas na linguagem de programação. Vetores, registros, listas encadeadas, pilhas, filas, árvores, e grafos, são exemplos de estruturas de dados típicas utilizadas para armazenar informações em memória principal.
 ____________________
 ### Tipos Abstratos de Dados - TAD  
 
@@ -21,13 +21,13 @@ ____________________
 </p>
 
 
-Trata-se de uma metodologia de programação que visa reduzir as informações necessárias para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. A abstração das informações aprimorou a construção de algoritmos, e por consequência aumentou a complexidade dos programas. 
+Trata-se de uma metodologia de programação que visa reduzir as informações necessárias para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. A abstração das informações aprimorou a construção de algoritmos, e por consequência aumentou a complexidade dos programas.
 
-Um tipo abstrato de dados (TAD) pode ser visto como um modelo matemático que encapsula um modelo de dados e um conjunto de procedimentos que atuam com exclusividade sobre os dados encapsulados. Em nível de abstração mais baixo, associado à implementação, esses procedimentos são implementados por subprogramas denominados operações, métodos ou serviços. 
+Um tipo abstrato de dados (TAD) pode ser visto como um modelo matemático que encapsula um modelo de dados e um conjunto de procedimentos que atuam com exclusividade sobre os dados encapsulados. Em nível de abstração mais baixo, associado à implementação, esses procedimentos são implementados por subprogramas denominados operações, métodos ou serviços.
 
 Qualquer processamento a ser realizada sobre os dados encapsulados em um TAD só poderá ser executada por intermédio dos procedimentos definidos no modelo matemático do TAD, sendo esta restrição a característica operacional mais útil dessa estrutura.
 
-O TAD é implementado usando-se um tipo composto (struct/record) com os valores pertencentes ao TAD (ex.: nome, conta, agencia), e por funções que operam esta estrutura. 
+O TAD é implementado usando-se um tipo composto (struct/record) com os valores pertencentes ao TAD (ex.: nome, conta, agencia), e por funções que operam esta estrutura.
 
 **Definição de um TAD**
 
@@ -53,9 +53,22 @@ A escolha da estrutura de dados empregada tem papel importante, uma escolha mal 
 
 **Vantagens do uso de TADs**
 
-1. Reuso
+1. Flexibilidade e Reutilização
 2. Manutenção
 3. Correção
+4. Encapsulamento e Segurança
+
+**Modularização**
+
+Arquivo *".h"*: protótipo das funções, tipos de ponteiros, dados globalmente acessíveis   
+Arquivo *".c"*: declaração do tipo de dados e implementação das funções   
+
+**Vídeos**
+
+[![TAD - Programacao Descomplicada](https://img.youtube.com/vi/bryesHll0vY/0.jpg)](https://www.youtube.com/watch?v=bryesHll0vY)
+
+[![TAD - Programacao Descomplicada](https://img.youtube.com/vi/lKwEQgV6nZk/0.jpg)](https://youtube.com/watch?v=lKwEQgV6nZk)
+
 
 
 ##### Links consultados:
