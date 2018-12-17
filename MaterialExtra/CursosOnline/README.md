@@ -1,8 +1,31 @@
-**Cursos online referentes aos tópicos da disciplina AEDS:**
+## Cursos online
 
-1. [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)   
-
-2. [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)   
-
-3. [Programação Descomplicada - UFU](https://www.youtube.com/user/progdescomplicada)  
-
+  * **MIT OpenCourseware**
+    * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)   
+    * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)   
+  * **Youtube**
+    * [Programação Descomplicada - UFU](https://www.youtube.com/user/progdescomplicada)  
+    
+  * **Coursera** 
+    * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+    * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
+    * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+  
+  * **Khan Academy**
+    * [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+    
+  * **Udecity**
+    * [Computability, Complexity & Algorithms](https://br.udacity.com/course/computability-complexity-algorithms--ud061)
+    * [Introdução a algoritmos](https://br.udacity.com/course/intro-to-algorithms--cs215)
+    
+  * **EdX**
+    * [Algorithms](https://www.edx.org/course/algorithms)
+    * [Algorithms and Data Structures](https://www.edx.org/course/algorithms-and-data-structures-2)
+    * [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
+    * [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x)
+    * [Algorithms and Data Structures Capstone](https://www.edx.org/course/algorithms-data-structures-capstone-uc-san-diegox-algs207x)
+    * [Algorithms and Data Structures in C#](https://www.edx.org/course/algorithms-data-structures-c-sharp-3)
+    * [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x)
+    * [Data Structures: An Active Learning Approach](https://www.edx.org/course/data-structures-an-active-learning-approach)
+    * [Foundations of Data Structures](https://www.edx.org/course/foundations-of-data-structures)
+    * [Implementation of Data Structures](https://www.edx.org/course/implementation-of-data-structures)
