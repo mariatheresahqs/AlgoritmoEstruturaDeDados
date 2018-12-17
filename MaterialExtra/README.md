@@ -11,7 +11,12 @@
    * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
      
 ## Cursos Online (Free)
-  
+  * **MIT OpenCourseware**
+    * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)   
+    * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)   
+  * **Youtube**
+    * [Programação Descomplicada - UFU](https://www.youtube.com/user/progdescomplicada)  
+    
   * **Coursera** 
     * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
     * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
