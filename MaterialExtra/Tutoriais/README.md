@@ -13,3 +13,13 @@
    - [Algoritmos e Estrutura de Dados 2](https://github.com/flaviovdf/AEDS2-2017-1#v%C3%ADdeos)   
    - [Algoritmos e Estrutura de Dados 2](https://github.com/flaviovdf/estruturas-de-dados)  
    
+   
+6. [Algorithms - Princeton Edu](https://algs4.cs.princeton.edu/home/)  
+
+7. [Data Structures and Algorithms Tutorials - Hackr](https://hackr.io/tutorials/learn-data-structures-algorithms)
+   
+8. [Competitive Programming Tutorials - TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
+
+9. [Visual Algorithm - Algorithms Through Animation](https://visualgo.net/en)
+
+10. [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
