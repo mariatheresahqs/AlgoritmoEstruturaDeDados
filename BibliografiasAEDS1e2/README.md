@@ -24,14 +24,14 @@ Compressão de dados.
 ___________________________________________________________________________________
 ### Bibliografias 
 
-**Bibliografia Básica Comum:**
+* **Bibliografia Básica Comum:**
 
 1 - CORMEN, T. H. LEISERSON, C. E. and RIVEST, R.L. Algoritmos: teoria e prática. Campus, 3ª ed,
 2012.
 
 2 - ZIVIANI, N. Projeto de Algoritmos com Implementações em Java e C++, Editora Thomson, 2007.  
 
-**Bibliografia Complementar Comum:**  
+* **Bibliografia Complementar Comum:**  
 
 1 - DROZDEK, A., Estrutura de dados e algoritmos em C++, Thomson, São Paulo, 2002. 
 
@@ -42,15 +42,16 @@ Learning, 2010.
 Rio de Janeiro, 2008.  
 
 ___________________________________________________________________________________
+### Demais bibliografias sugeridas
 
 **CCF211 Algoritmos e Estrutura de Dados I**
 
-**Bibliografia Básica:**  
+* **Bibliografia Básica:**  
 
 1 - D. E. Knuth. The Art of Computer Programming, Volume 1: Fundamental Algorithms, Addison-Wesley,
 1998.   
 
-**Bibliografia Complementar:**
+* **Bibliografia Complementar:**
   
 1 - H. M. Deitel, P. J. Deitel, C++ Como Programar , 5a Ed., Pearson/Prentice Hall, 2006.  
 
@@ -61,12 +62,12 @@ ________________________________________________________________________________
 
 **CCF211 Algoritmos e Estrutura de Dados II**
 
-**Bibliografia Básica:**
+* **Bibliografia Básica:**
    
 1 - SEDGEWICK, R. Algorithms in C++, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching.
 3rd edition. Addison-Wesley Professional, 1997.  
 
-**Bibliografia Complementar:**  
+* **Bibliografia Complementar:**  
  
 1 - FEOFILOFF, P., Algoritmos em linguagem C. Elsevier, Rio de Janeiro, 2009
 KNUTH, D. E., The Art of Computer Programming, Volume 1: Fundamental Algorithms, Addison-Wesley,
