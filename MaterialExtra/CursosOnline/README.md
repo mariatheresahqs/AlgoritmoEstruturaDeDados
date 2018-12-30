@@ -4,7 +4,9 @@
     * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)   
     * [Introduction to Algorithms - MIT OpenCourse](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)   
   * **Youtube**
-    * [Programação Descomplicada - UFU](https://www.youtube.com/user/progdescomplicada)  
+    * [Programação Descomplicada - UFU](https://www.youtube.com/user/progdescomplicada) 
+    * [Estrutura de Dados - Univesp](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
+    * [Projeto e Análise de Algoritmos - Univesp](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW)
     
   * **Coursera** 
     * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
