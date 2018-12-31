@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int StrEnd(char *s, char *t);
+int StrEnd(char palavra1[], char palavra2[]);
 
 int main() {
     char palavra1[50], palavra2[50];
