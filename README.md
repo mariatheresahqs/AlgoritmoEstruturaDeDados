@@ -69,8 +69,9 @@ Links, pdfs e códigos referentes as disciplinas de "Algoritmos e Estruturas de 
 
 ## Recursos Extraclasse    
 
-### Sites 
- 
+### Sites
+
+   * [Lista de Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures)  
    * [Data Structure and Algorithms Tutorial - Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
    * [Algorithms - Princeton Edu](https://algs4.cs.princeton.edu/home/)
    * [Data Structures and Algorithms Tutorials - Hackr](https://hackr.io/tutorials/learn-data-structures-algorithms)
