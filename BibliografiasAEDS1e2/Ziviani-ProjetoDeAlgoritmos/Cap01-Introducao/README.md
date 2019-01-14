@@ -1,6 +1,6 @@
-## Introdução
+# Introdução
 
-### 1. Algoritmos, Estruturas de Dados e Programas 
+## 1. Algoritmos, Estruturas de Dados e Programas 
 
 * Algoritmo
 
@@ -14,7 +14,7 @@ Relacionamento lógico e escolha da forma de representação de um conjunto de t
 
 Programas são formulações concretas de algoritmos abstratos, baseados em representações e estruturas específicas de dados. São, assim, representação de algoritmos capazes de serem seguidos por computadores. 
 
-### 2. Tipos de Dados e Tipos Abstratos de Dados 
+## 2. Tipos de Dados e Tipos Abstratos de Dados 
 
 * Tipos de Dados
 
@@ -30,13 +30,13 @@ Um tipo de dado nada mais que é algo do mundo real que pode ser representado co
 
 Se existe necessidade de alterar a implementação do tipo abstrato de dado, a alteraçãofica restrita à parte encapsulada, sem causar impacto em outras partes do código.
 
-### 3. Medida do Tempo de Execução de um Programa 
+## 3. Medida do Tempo de Execução de um Programa 
 
 Análise de algoritmos é importante para comparar a eficiência (complexidade computacional) dos algoritmos, e o custo de aplicação dos mesmos (memória + tempo).
 
 Na área de análise de algoritmos, existem dois tipos de problemas bem distintos:
 
-**3.1.1. Análise Empírica: comparação entre os programas**
+### 3.1.1. Análise Empírica: comparação entre os programas**
 
 Avalia o custo (complexidade) de um algoritmo a partir da avaliação da execução do mesmo quando implementado.
 
@@ -57,7 +57,7 @@ Avalia o custo (complexidade) de um algoritmo a partir da avaliação da execuç
       * perversos (pior caso).
 
 
-**3.1.2. Análise Matemática: estudo das propriedades do algoritmo**  
+### 3.1.2. Análise Matemática: estudo das propriedades do algoritmo**  
 
 - Estudo formal do algoritmo ao nível da ideia por trás do algoritmo.   
 - Faz uso do computador idealizado e simplificações que consideram somente os custos dominantes do algoritmo.  
@@ -106,7 +106,7 @@ Avalia o custo (complexidade) de um algoritmo a partir da avaliação da execuç
   
   Depois que um problema é analisado e decisões de projeto são finalizadas, é necessário estudar as várias opções de algoritmos a serem utilizados, considerando os aspectos de tempo de execução e espaço ocupado.  
 
-   #### 3.2.Comportamento Assintótico de Funções   
+### 3.2.Comportamento Assintótico de Funções   
    
    A notação assintótica permite descartar os termos constantes e menos significativo, assim, analisa-se o pior caso que o algoritmo pode apresentar (maior número de instruções a ser executado). Faz-se, então, a contagem dos comandos de laços aninhados.  
    
@@ -133,7 +133,7 @@ Avalia o custo (complexidade) de um algoritmo a partir da avaliação da execuç
      - Limite firme ou estreito;
      - Limite inferior e superior.
    
-   #### 3.3.Classes de Comportamento Assintótico
+### 3.3.Classes de Comportamento Assintótico
    
    **O(1): Ordem Constante**
      - As instruções são executadas um número fixo de vezes;
