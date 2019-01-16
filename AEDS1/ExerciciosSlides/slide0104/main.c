@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "NumerosComplexos.h"
+#include "funcoes.c
 
 
 int main() {
