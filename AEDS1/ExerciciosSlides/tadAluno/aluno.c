@@ -7,13 +7,27 @@ void inicializarAluno(Aluno *aluno){
     strcpy(aluno->nome, "");
     strcpy(aluno->matricula, "");
     inicializarDisciplinas(aluno->disciplinas);
-    aluno->coeficiente = 0.0;
+    aluno->coeficiente = 0;
 }
 
 void imprimirAluno(Aluno *aluno){
-    printf("Nome: %s\n", aluno->nome);
-    printf("Matrícula: %s\n", aluno->matricula);
+    printf("\nNome: %s", aluno->nome);
+    printf("Matrícula: %s", aluno->matricula);
+    printf("Histórico de disciplinas:\n");
     imprimirDisciplinas(aluno->disciplinas);
-    printf("Coeficiente: %f\n", aluno->coeficiente);
+    printf("Coeficiente: ");
+    calcularCoeficiente(aluno->disciplinas);
+}
 
+void preencherAluno(Aluno *aluno){
+    printf("Declare o nome do aluno: ");
+    fgets(aluno->nome, 30, stdin);
+    printf("Declare a matrícula do aluno: ");
+    fgets(aluno->matricula, 8, stdin);
+    preencherDisciplinas(aluno->disciplinas);
+}
+
+void coeficiente(Aluno *aluno){
+    printf("O coeficiente do aluno é: ");
+    calcularCoeficiente(aluno->disciplinas);
 }

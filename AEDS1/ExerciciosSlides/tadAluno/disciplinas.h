@@ -13,6 +13,8 @@ typedef struct {
 
 void inicializarDisciplinas(Disciplinas *disciplinas);
 void imprimirDisciplinas(Disciplinas *disciplinas);
+void preencherDisciplinas(Disciplinas *disciplinas);
+void calcularCoeficiente(Disciplinas *disciplinas);
 
 
 #endif //TADALUNO_DISCIPLINAS_H

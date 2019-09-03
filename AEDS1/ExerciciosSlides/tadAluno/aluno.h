@@ -8,7 +8,7 @@
 
 #ifndef TADALUNO_ALUNO_H
 #define TADALUNO_ALUNO_H
-#define tamanho 5
+#define tamanho 2
 
 typedef struct {
     char nome[30];
@@ -19,5 +19,7 @@ typedef struct {
 
 void inicializarAluno(Aluno *aluno);
 void imprimirAluno(Aluno *aluno);
+void preencherAluno(Aluno *aluno);
+void coeficiente(Aluno *aluno);
 
 #endif //TADALUNO_ALUNO_H
