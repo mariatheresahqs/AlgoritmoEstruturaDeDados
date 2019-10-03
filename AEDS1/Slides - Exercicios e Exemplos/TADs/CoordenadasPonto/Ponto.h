@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 //Arquivo Ponto.h
 typedef struct ponto Ponto;
 
