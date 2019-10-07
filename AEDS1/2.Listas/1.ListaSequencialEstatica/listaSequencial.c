@@ -123,3 +123,73 @@ int inserirOrdenado(Lista* lista, Aluno novoAluno){
     printf("Inserção realizada com sucesso!\n");
     return 1;
 }
+
+
+// REMOCAO
+// Remocao no Final
+int removerFinal(Lista* lista){
+    // Confere se a lista foi alocada corretamente
+    if(lista==NULL){
+        return 0;
+    }
+    // Confere se a lista está vazia
+    if(listaVazia(lista)){
+        return 0;
+    }
+    // Decrementa o tamanho da lista em 1, e transforma o dado armazenado na ultima posicao em
+    // lixo de memoria
+    lista->quantidade--;
+    return 1;
+}
+
+// Remocao no Inicio
+int removerInicio(Lista* lista){
+    // Confere se a lista foi alocada corretamente
+    if(lista==NULL){
+        return 0;
+    }
+    // Confere se a lista está vazia
+    if(listaVazia(lista)){
+        return 0;
+    }
+    // Transfiro todos os dados da posicao i+1 para a posicao i no vetor
+    for(int i=0; i<lista->quantidade-1; i++){
+        lista->dadosAlunos[i] = lista->dadosAlunos[i+1];
+    }
+    // Decrementa o tamanho da lista em 1, e transforma o dado armazenado na ultima posicao em
+    // lixo de memoria
+    lista->quantidade--;
+    return 1;
+}
+
+// Remocao Ordenada
+int removerOrdenado(Lista* lista, int matricula){
+    // Confere se a lista foi alocada corretamente
+    if(lista==NULL){
+        return 0;
+    }
+    // Confere se a lista está vazia
+    if(listaVazia(lista)){
+        return 0;
+    }
+    int k,i=0;
+    // Enquanto a recursao for inferior ao tamanho da lista E
+    // a matricula do aluno for diferente ao do aluno está sendo comparado
+    while (i<lista->quantidade && lista->dadosAlunos[i].matricula != matricula){
+        i++;
+    }
+    // Se o número de incrementos no i(valores percorridos no array) é superior ao
+    // tamanho da lista é porque a matricula buscada nao se encontra na lista
+    if(i>lista->quantidade){
+        return 0;
+    }
+    // Transfiro todos os dados da posicao k+1 para a posicao k no vetor, ate subscrever o
+    // valor que deve ser retirado
+    for(k=i; k<lista->quantidade-1; k++){
+        lista->dadosAlunos[k] = lista->dadosAlunos[k+1];
+    }
+    // Decrementa o tamanho da lista em 1, e transforma o dado armazenado na ultima posicao em
+    // lixo de memoria
+    lista->quantidade--;
+    return 1;
+}

@@ -33,7 +33,7 @@ int listaCheia(Lista *lista);
 // LISTA VAZIA
 int listaVazia(Lista *lista);
 
-// INSERIR ELEMENTO NA LISTA
+// INSERCAO
 // Insercao no Final
 int inserirFinal(Lista* lista, Aluno novoAluno);
 
@@ -42,5 +42,15 @@ int inserirInicio(Lista* lista, Aluno novoAluno);
 
 // Insercao de forma Ordenada
 int inserirOrdenado(Lista* lista, Aluno novoAluno);
+
+// REMOCAO
+// Insercao no Final
+int removerFinal(Lista* lista);
+
+// Insercao no Inicio
+int removerInicio(Lista* lista);
+
+// Insercao de forma Ordenada
+int removerOrdenado(Lista* lista, int matricula);
 
 #endif //LISTAESTATICA_LISTASEQUENCIAL_H
