@@ -1,10 +1,11 @@
 #include "arvoreBinaria.h"
 
-int main()
-{
-    arvBin *raiz;
-    arvBin *raiz = criarArvBin();
+int main() {
+  arvBin *raiz;
+  arvBin *raiz = createArvBin();
+  int isEmpty = isEmpty(raiz);
 
-    // liberaArvBin(raiz);
-    return 0;
+  // if (isEmpty)
+  // freeArvBin(raiz);
+  return 0;
 }
